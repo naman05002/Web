@@ -26,13 +26,13 @@ body{
 }
 .top-cloud{
     position: absolute;
-    top:6rem;
-    right: 20rem;
+    top:5%;
+    right: 20%;
 }
 .bottom-cloud{
     position: absolute;
-    left: 20rem;
-    bottom: 25rem;
+    left: 10%;
+    bottom: 60%;
 }
 h1{
     font-family: 'Gloria Hallelujah', cursive;
